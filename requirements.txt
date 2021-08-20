@@ -1,4 +1,6 @@
 pandas
 numpy
+json
 scipy 
 alpaca_trade_api
+td-ameritrade-python-api
